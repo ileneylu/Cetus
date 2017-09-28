@@ -10,7 +10,7 @@ class LinearRegression {
   // Target feature
   arma::vec y;
 
-  // Vector for predication
+  // Vector for prediction
   arma::vec theta;
 
 public:
